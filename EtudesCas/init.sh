@@ -2,7 +2,7 @@
 
 mkdir data/ analyses/ résultats/ scripts/
 
-ln -sf /home/public/EtudeCas1/raw_data/
-ln -sf /home/public/rna_seq/reference/
+ln -sf /home/public/EtudeCas1/raw_data/ raw_data
+ln -sf /home/public/rna_seq/reference/ reference
 
 cp /home/public/rna_seq/demo/adaptors.fa data/adaptors/
